@@ -10,11 +10,8 @@ const CREATEANEWACCOUNT = (props) => {
   return (
     <div className="createanewaccount-container">
       <Helmet>
-        <title>CREATE-A-NEW-ACCOUNT - United Trim Wildcat</title>
-        <meta
-          property="og:title"
-          content="CREATE-A-NEW-ACCOUNT - United Trim Wildcat"
-        />
+        <title>CREATE-A-NEW-ACCOUNT - R3 VM</title>
+        <meta property="og:title" content="CREATE-A-NEW-ACCOUNT - R3 VM" />
       </Helmet>
       <div className="createanewaccount-container1">
         <div className="createanewaccount-container2">

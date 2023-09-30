@@ -9,8 +9,8 @@ const BLOG = (props) => {
   return (
     <div className="blog-container">
       <Helmet>
-        <title>BLOG - United Trim Wildcat</title>
-        <meta property="og:title" content="BLOG - United Trim Wildcat" />
+        <title>BLOG - R3 VM</title>
+        <meta property="og:title" content="BLOG - R3 VM" />
       </Helmet>
       <div className="blog-blog">
         <div className="blog-container1">

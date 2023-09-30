@@ -9,11 +9,8 @@ const AccountCreateOrLogin = (props) => {
   return (
     <div className="account-create-or-login-container">
       <Helmet>
-        <title>Account-create-or-login - United Trim Wildcat</title>
-        <meta
-          property="og:title"
-          content="Account-create-or-login - United Trim Wildcat"
-        />
+        <title>Account-create-or-login - R3 VM</title>
+        <meta property="og:title" content="Account-create-or-login - R3 VM" />
       </Helmet>
       <div className="account-create-or-login-container1">
         <span className="account-create-or-login-text">

@@ -9,10 +9,10 @@ const YOURNEWACCOUNTHASBEENCREATED = (props) => {
   return (
     <div className="yournewaccounthasbeencreated-container">
       <Helmet>
-        <title>YOUR-NEW-ACCOUNT-HAS-BEEN-CREATED - United Trim Wildcat</title>
+        <title>YOUR-NEW-ACCOUNT-HAS-BEEN-CREATED - R3 VM</title>
         <meta
           property="og:title"
-          content="YOUR-NEW-ACCOUNT-HAS-BEEN-CREATED - United Trim Wildcat"
+          content="YOUR-NEW-ACCOUNT-HAS-BEEN-CREATED - R3 VM"
         />
       </Helmet>
       <span className="yournewaccounthasbeencreated-text">

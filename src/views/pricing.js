@@ -8,8 +8,8 @@ const Pricing = (props) => {
   return (
     <div className="pricing-container">
       <Helmet>
-        <title>pricing - United Trim Wildcat</title>
-        <meta property="og:title" content="pricing - United Trim Wildcat" />
+        <title>pricing - R3 VM</title>
+        <meta property="og:title" content="pricing - R3 VM" />
       </Helmet>
       <div className="pricing-pricing">
         <div className="pricing-container1">

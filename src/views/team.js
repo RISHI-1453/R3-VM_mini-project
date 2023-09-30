@@ -9,8 +9,8 @@ const TEAM = (props) => {
   return (
     <div className="team-container">
       <Helmet>
-        <title>TEAM - United Trim Wildcat</title>
-        <meta property="og:title" content="TEAM - United Trim Wildcat" />
+        <title>TEAM - R3 VM</title>
+        <meta property="og:title" content="TEAM - R3 VM" />
       </Helmet>
       <div className="team-gallery">
         <a
@@ -53,22 +53,22 @@ const TEAM = (props) => {
           ></GalleryCard1>
         </a>
         <GalleryCard1
-          image_src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEzfHxwZW9wbGV8ZW58MHx8fHwxNjk2MDc5NDM3fDA&amp;ixlib=rb-4.0.3&amp;h=1500"
-          rootClassName="rootClassName3"
           title="STEVE.S"
           subtitle="MANAGER"
+          image_src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEzfHxwZW9wbGV8ZW58MHx8fHwxNjk2MDc5NDM3fDA&amp;ixlib=rb-4.0.3&amp;h=1500"
+          rootClassName="rootClassName3"
         ></GalleryCard1>
         <GalleryCard1
+          title="JOS.B"
+          subtitle="MARKETING HEAD"
           image_src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDQwfHxwZW9wbGV8ZW58MHx8fHwxNjk2MDc5NDcxfDA&amp;ixlib=rb-4.0.3&amp;h=1500"
           rootClassName="rootClassName4"
-          subtitle="MARKETING HEAD"
-          title="JOS.B"
         ></GalleryCard1>
         <GalleryCard1
-          image_src="https://images.unsplash.com/photo-1522556189639-b150ed9c4330?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDQ0fHxwZW9wbGV8ZW58MHx8fHwxNjk2MDc5NDcxfDA&amp;ixlib=rb-4.0.3&amp;h=1500"
-          rootClassName="rootClassName5"
           title="KANE.W"
           subtitle="BUSINESS ANALYST"
+          image_src="https://images.unsplash.com/photo-1522556189639-b150ed9c4330?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDQ0fHxwZW9wbGV8ZW58MHx8fHwxNjk2MDc5NDcxfDA&amp;ixlib=rb-4.0.3&amp;h=1500"
+          rootClassName="rootClassName5"
         ></GalleryCard1>
       </div>
     </div>

@@ -10,11 +10,8 @@ const BOOKYOURVM = (props) => {
   return (
     <div className="bookyourvm-container">
       <Helmet>
-        <title>BOOK-YOUR-VM - United Trim Wildcat</title>
-        <meta
-          property="og:title"
-          content="BOOK-YOUR-VM - United Trim Wildcat"
-        />
+        <title>BOOK-YOUR-VM - R3 VM</title>
+        <meta property="og:title" content="BOOK-YOUR-VM - R3 VM" />
       </Helmet>
       <div className="bookyourvm-container1">
         <div className="bookyourvm-container2">

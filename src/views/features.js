@@ -9,8 +9,8 @@ const FEATURES = (props) => {
   return (
     <div className="features-container">
       <Helmet>
-        <title>FEATURES - United Trim Wildcat</title>
-        <meta property="og:title" content="FEATURES - United Trim Wildcat" />
+        <title>FEATURES - R3 VM</title>
+        <meta property="og:title" content="FEATURES - R3 VM" />
       </Helmet>
       <div className="features-features">
         <h1 className="features-text">

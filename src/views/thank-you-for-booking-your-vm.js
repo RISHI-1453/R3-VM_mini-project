@@ -9,10 +9,10 @@ const THANKYOUFORBOOKINGYOURVM = (props) => {
   return (
     <div className="thankyouforbookingyourvm-container">
       <Helmet>
-        <title>THANK-YOU-FOR-BOOKING-YOUR-VM - United Trim Wildcat</title>
+        <title>THANK-YOU-FOR-BOOKING-YOUR-VM - R3 VM</title>
         <meta
           property="og:title"
-          content="THANK-YOU-FOR-BOOKING-YOUR-VM - United Trim Wildcat"
+          content="THANK-YOU-FOR-BOOKING-YOUR-VM - R3 VM"
         />
       </Helmet>
       <Link to="/" className="thankyouforbookingyourvm-navlink">

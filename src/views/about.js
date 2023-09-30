@@ -9,8 +9,8 @@ const ABOUT = (props) => {
   return (
     <div className="about-container">
       <Helmet>
-        <title>ABOUT - United Trim Wildcat</title>
-        <meta property="og:title" content="ABOUT - United Trim Wildcat" />
+        <title>ABOUT - R3 VM</title>
+        <meta property="og:title" content="ABOUT - R3 VM" />
       </Helmet>
       <div className="about-banner">
         <h1 className="about-text">ABOUT US</h1>

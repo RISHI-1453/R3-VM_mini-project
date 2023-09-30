@@ -10,8 +10,8 @@ const Login = (props) => {
   return (
     <div className="login-container">
       <Helmet>
-        <title>login - United Trim Wildcat</title>
-        <meta property="og:title" content="login - United Trim Wildcat" />
+        <title>login - R3 VM</title>
+        <meta property="og:title" content="login - R3 VM" />
       </Helmet>
       <div className="login-container1">
         <div className="login-container2">
