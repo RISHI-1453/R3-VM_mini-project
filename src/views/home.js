@@ -19,17 +19,32 @@ const Home = (props) => {
               <Link to="/" className="home-navlink">
                 R3 VM
               </Link>
-              <span className="home-text">About</span>
-              <span className="home-text01">Features</span>
-              <span className="home-text02">Pricing</span>
-              <span className="home-text03">Team</span>
-              <span className="home-text04">Blog</span>
+              <Link to="/about" className="home-navlink1">
+                About
+              </Link>
+              <Link to="/features" className="home-navlink2">
+                Features
+              </Link>
+              <Link to="/pricing" className="home-navlink3">
+                Pricing
+              </Link>
+              <Link to="/team" className="home-navlink4">
+                Team
+              </Link>
+              <Link to="/blog" className="home-navlink5">
+                Blog
+              </Link>
             </nav>
             <div className="home-buttons">
-              <Link to="/book-your-vm" className="home-book-your-vm button">
+              <Link
+                to="/account-create-or-login"
+                className="home-book-your-vm button"
+              >
                 BOOK YOUR VM
               </Link>
-              <button className="home-login button">LOGIN</button>
+              <Link to="/login" className="home-login button">
+                LOGIN
+              </Link>
             </div>
           </div>
         </div>
@@ -53,11 +68,11 @@ const Home = (props) => {
               </div>
             </div>
             <nav className="home-links1">
-              <span className="home-text05">About</span>
-              <span className="home-text06">Features</span>
-              <span className="home-text07">Pricing</span>
-              <span className="home-text08">Team</span>
-              <span className="home-text09">Blog</span>
+              <span className="home-text">About</span>
+              <span className="home-text01">Features</span>
+              <span className="home-text02">Pricing</span>
+              <span className="home-text03">Team</span>
+              <span className="home-text04">Blog</span>
             </nav>
             <div className="home-buttons1">
               <button className="home-login1 button">Login</button>
@@ -78,15 +93,15 @@ const Home = (props) => {
         </div>
       </header>
       <div className="home-container2">
-        <span className="home-text10">
-          <span className="home-text11 Heading">
+        <span className="home-text05">
+          <span className="Heading">
             &quot;Welcome to R3 VM: Your Gateway to Virtual Machines!
           </span>
-          <br className="home-text12"></br>
-          <br className="home-text13 Heading"></br>
-          <br className="home-text14"></br>
-          <br className="home-text15 Heading"></br>
-          <span className="home-text16 Heading">
+          <br className="home-text07"></br>
+          <br className="Heading"></br>
+          <br className="home-text09"></br>
+          <br className="Heading"></br>
+          <span className="Heading">
             At R3 VM, we specialize in delivering cutting-edge virtual machines
             tailored to meet your unique needs. Whether you&apos;re a tech
             enthusiast, a developer, or a business in search of scalable
@@ -96,7 +111,7 @@ const Home = (props) => {
             community of satisfied customers and experience the future of
             computing today!
           </span>
-          <span className="home-text17 Heading">&quot;</span>
+          <span className="Heading">&quot;</span>
         </span>
       </div>
     </div>

@@ -7,11 +7,11 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("https://images.unsplash.com/photo-1504253163759-c23fccaebb55?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fGNsb3VkfGVufDB8fHx8MTY5NjA1MjQ0NHww&ixlib=rb-4.0.3&w=1500");
+  background-image: url("https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDR8fGNsb3VkfGVufDB8fHx8MTY5NjA1MjQ0NHww&ixlib=rb-4.0.3&w=1500");
 }
 .bookyourvm-container1 {
-  width: 860px;
-  height: 771px;
+  width: 1118px;
+  height: 854px;
   padding-right: var(--dl-space-space-fiveunits);
 }
 .bookyourvm-container2 {

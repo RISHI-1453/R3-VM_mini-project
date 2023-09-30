@@ -40,6 +40,7 @@ textarea {
 
 
 <form action="action_page.php" method="post">
+  <h1>BOOK YOUR VM</h1>
 
   <label for="name">Name:</label>
   <input type="text" id="name" name="name">
@@ -72,6 +73,7 @@ textarea {
     <option value="azure">Azure</option>
     <option value="openstack">OpenStack</option>
     <option value="alibaba">Alibaba</option>
+    <option value="alibaba">OpenStack</option>
   </select>
 
   <br>

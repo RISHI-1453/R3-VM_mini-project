@@ -1,0 +1,25 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://images.unsplash.com/photo-1534088568595-a066f410bcda?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDE1fHxjbG91ZHxlbnwwfHx8fDE2OTYwNTI0NDR8MA&ixlib=rb-4.0.3&w=1500");
+}
+.login-container1 {
+  width: 576px;
+  height: 260px;
+}
+.login-container2 {
+  display: contents;
+}
+.login-navlink {
+  color: #efeded;
+  font-size: 30px;
+  font-family: Arial Black;
+  text-decoration: none;
+  background-color: #020202;
+}
