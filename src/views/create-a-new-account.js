@@ -23,7 +23,7 @@ const CREATEANEWACCOUNT = (props) => {
 <style>
 body {
   font-size: 30px;
-  line-height: 30px;
+  line-height: 80px;
 }
 
 input {
@@ -42,7 +42,7 @@ input {
 .create-account-form .submit-button {
   background-color: blue;
   color: white;
-  padding: 20px;
+  padding: 30px;
   border: none;
   cursor: pointer;
 }

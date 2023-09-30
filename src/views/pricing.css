@@ -9,10 +9,7 @@
 .pricing-pricing {
   width: 100%;
   display: flex;
-  background-size: cover;
   justify-content: center;
-  background-image: url('https://images.unsplash.com/photo-1503149779833-1de50ebe5f8a?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDE2fHxzd2lzcyUyMGNoZWVzZSUyMHBsYW50fGVufDB8fHx8MTYyNTg0MTU0Mg&ixlib=rb-1.2.1&h=1200');
-  background-position: center;
 }
 .pricing-container1 {
   width: 100%;
